@@ -1,0 +1,30 @@
+[{
+    "id": 47,
+    "car": {
+            "car_make": "Lamborghini",
+            "car_model": "Murciélago",
+            "car_year": 2002
+    },
+    "price": "$13724.05",
+    "total_sales": 149
+},
+{
+    "id": 48,
+    "car": {
+            "car_make": "testMake",
+            "car_model": "tastModel",
+            "car_year": 2004
+    },
+    "price": "$10000.00",
+    "total_sales": 300
+},
+{
+    "id": 49,
+    "car": {
+            "car_make": "testMake2",
+            "car_model": "tastModel2",
+            "car_year": 2004
+    },
+    "price": "$10000.00",
+    "total_sales": 300
+}]
